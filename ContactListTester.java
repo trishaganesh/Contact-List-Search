@@ -1,6 +1,5 @@
 /**
- * Purpose: The purpose of this program is to utilize concepts learned in module 7 and 8
- * into a challenge program: a contact list.
+ * Purpose: The purpose of this program is to perform searching within a contact list.
  *
  * @author Trisha Ganesh
  * @version 6/28/2021
